@@ -406,6 +406,10 @@ html{
     html{
          font-size: 80%;
     }
+      .section-1-icons i{
+        font-size: 20rem;
+        margin-top: -3rem;
+    }
     .section-2{
         height: auto;
         padding: 10rem 0 12rem 0;
